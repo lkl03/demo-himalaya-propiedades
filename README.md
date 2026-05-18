@@ -1,2 +1,7 @@
-# demo-himalaya-propiedades
-Demo web para HIMALAYA Propiedades — diseñada por eterlab.
+# HIMALAYA Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
